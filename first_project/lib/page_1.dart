@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Icon(Icons.star, color: Colors.yellow[500]),
                       Icon(Icons.star, color: Colors.yellow[500]),
                       Icon(Icons.star, color: Colors.yellow[500]),
-                      Icon(Icons.star, color: Colors.yellow[500]),
+                      Icon(Icons.star, color: Colors.yellow[400]),
                       Icon(Icons.star, color: Colors.yellow[500]),
                     ],
                   ),
